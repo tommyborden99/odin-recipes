@@ -1,0 +1,6 @@
+body {
+    background-image: linear-gradient(rgb(255, 255, 148), rgb(146, 255, 146));
+    font-family: monospace;
+    min-height: 100vhs;
+    background-attachment: fixed;
+}
